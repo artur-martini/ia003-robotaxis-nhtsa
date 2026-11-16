@@ -1,0 +1,34 @@
+[theme]
+base = "light"
+primaryColor = "#1c2430"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f1f3f2"
+textColor = "#1c2430"
+linkColor = "#1f5fae"
+borderColor = "#d3d8d5"
+blueColor = "#2a78d6"
+orangeColor = "#eb6834"
+font = "Public Sans:https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap, sans-serif"
+headingFont = "Overpass:https://fonts.googleapis.com/css2?family=Overpass:wght@700;800&display=swap, sans-serif"
+headingFontSizes = ["2.4rem", "1.7rem", "1.25rem", "1.05rem"]
+headingFontWeights = [800, 800, 700, 700]
+metricValueFontSize = "1.8rem"
+metricValueFontWeight = 700
+baseRadius = "0.3rem"
+showWidgetBorder = true
+codeTextColor = "#1c2430"
+codeBackgroundColor = "#eef0ef"
+paddingTop = "3.5rem"
+
+[theme.sidebar]
+backgroundColor = "#1c2430"
+secondaryBackgroundColor = "#2c3746"
+textColor = "#eef1ef"
+primaryColor = "#f2c230"
+borderColor = "#3a4656"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+headless = true

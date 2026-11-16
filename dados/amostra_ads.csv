@@ -1,0 +1,343 @@
+id_incidente,id_relatorio,arquivo,empresa,empresa_grupo,data,ano,hora,estado,tipo_via,colidiu_com,movimento,parado,velocidade_mph,velocidade_kmh,gravidade,ferido
+0154ad8a3896f31,30270-3011,Histórico (2021–2025),Waymo LLC,Waymo,2022-04,2022,6,CA,Rua,Picape,Seguindo em frente,False,17.0,27.4,Sem feridos,False
+015a78523465889,30270-13079,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,4,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+01fe1096ad10e2c,30610-5224,Histórico (2021–2025),"Zoox, Inc.",Zoox,2023-03,2023,22,NV,Rua,Objeto fixo,Virando à direita,False,4.0,6.4,Sem feridos,False
+025397c44a5648d,30270-15393,Atual (2025–2026),Waymo LLC,Waymo,2026-06,2026,16,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+0276a086a35ee20,30413-13470,Atual (2025–2026),May Mobility,Outras,2025-12,2025,11,GA,Rua,SUV,Seguindo em frente,False,5.0,8.0,Sem feridos,False
+05fabfc423de978,30610-10294,Histórico (2021–2025),"Zoox, Inc.",Zoox,2025-03,2025,8,NV,Cruzamento,SUV,Virando à esquerda,False,6.0,9.7,Sem feridos,False
+0714d81c98729b4,30270-15030,Atual (2025–2026),Waymo LLC,Waymo,2026-05,2026,16,CA,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+078bbba609474d8,30270-2591,Histórico (2021–2025),Waymo LLC,Waymo,2022-03,2022,14,AZ,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Desconhecida,
+07a39da372f5123,30270-7522,Histórico (2021–2025),Waymo LLC,Waymo,2024-03,2024,19,AZ,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+07bb2ce18fb1861,540-5489,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2023-04,2023,23,CA,Cruzamento,Outro ou desconhecido,Seguindo em frente,False,10.0,16.1,Sem feridos,False
+07df46993d3d218,540-3085,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2022-06,2022,23,CA,Cruzamento,Carro de passeio,Virando à esquerda,False,0.0,0.0,Leve,True
+08f2facfc20c80b,30270-13255,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,23,CA,Cruzamento,Carro de passeio,Ultrapassando,False,4.0,6.4,Sem feridos,False
+090f9ef63da3e2b,30270-13190,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,12,AZ,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Leve,True
+09531ba31a1bd07,30270-11508,Atual (2025–2026),Waymo LLC,Waymo,2025-08,2025,11,CA,Rua,Picape,Estacionado,True,0.0,0.0,Sem feridos,False
+09904a03b2631e9,30270-13365,Atual (2025–2026),Waymo LLC,Waymo,2025-12,2025,15,CA,Rua,Van,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+0a7bf295780127a,30270-14486,Atual (2025–2026),Waymo LLC,Waymo,2026-03,2026,22,AZ,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+0cb307e3099fa7e,30270-1498,Histórico (2021–2025),Waymo LLC,Waymo,2021-09,2021,12,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+0d0ae62c0bf671d,30531-1507,Histórico (2021–2025),Transdev Alternative Services,Transdev,2021-09,2021,11,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+0dfac0be21c8da4,30270-10081,Histórico (2021–2025),Waymo LLC,Waymo,2025-02,2025,18,CA,Rotatória,Ônibus,Virando à esquerda,False,6.0,9.7,Sem feridos,False
+0fa98029f8f1cef,30270-9287,Histórico (2021–2025),Waymo LLC,Waymo,2024-12,2024,10,CA,Cruzamento,Outro ou desconhecido,Seguindo em frente,False,16.0,25.7,Desconhecida,
+0fc18218a8e7468,30270-13604,Atual (2025–2026),Waymo LLC,Waymo,2026-01,2026,1,CA,Rua,SUV,Seguindo em frente,False,9.0,14.5,Leve,True
+1024682219a18ca,30270-14708,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,23,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+103b9579e6c4a19,31101-13626,Atual (2025–2026),Avride Inc.,Avride,2025-12,2025,10,TX,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+109ccd802db67dd,30270-14490,Atual (2025–2026),Waymo LLC,Waymo,2026-03,2026,7,TX,Rua,Outro ou desconhecido,Seguindo em frente,False,10.0,16.1,Sem feridos,False
+10f72ba4931873e,30270-7306,Histórico (2021–2025),Waymo LLC,Waymo,2024-03,2024,4,CA,Cruzamento,Carro de passeio,Seguindo em frente,False,14.0,22.5,Sem feridos,False
+1253e75e616baae,30270-11994,Atual (2025–2026),Waymo LLC,Waymo,2025-10,2025,12,AZ,Estacionamento,SUV,Estacionado,True,0.0,0.0,Sem feridos,False
+16835e3fd4b2213,30270-11932,Atual (2025–2026),Waymo LLC,Waymo,2025-10,2025,11,TX,Estacionamento,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+16bc5d008489b40,30270-11940,Atual (2025–2026),Waymo LLC,Waymo,2025-10,2025,12,CA,Cruzamento,Picape,Seguindo em frente,False,6.0,9.7,Sem feridos,False
+174128888b47cb3,30270-16500,Atual (2025–2026),Waymo LLC,Waymo,2026-09,2026,8,CA,Rua,Carro de passeio,Saindo da faixa ou da via,False,5.0,8.0,Sem feridos,False
+1760af8f89bba3e,30270-6344,Histórico (2021–2025),Waymo LLC,Waymo,2023-08,2023,17,CA,Rua,Ciclista,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+182efd0e7948c2d,30270-5591,Histórico (2021–2025),Waymo LLC,Waymo,2023-04,2023,8,AZ,Cruzamento,Van,Seguindo em frente,False,1.0,1.6,Sem feridos,False
+185c2e8c15d0722,30270-13471,Atual (2025–2026),Waymo LLC,Waymo,2025-12,2025,4,FL,Rodovia,SUV,Seguindo em frente,False,56.0,90.1,Sem feridos,False
+19284fe3327827b,30270-8145,Histórico (2021–2025),Waymo LLC,Waymo,2024-06,2024,8,CA,Estacionamento,Objeto fixo,Virando à esquerda,False,2.0,3.2,Sem feridos,False
+19817d09a00fa8f,30610-1281,Histórico (2021–2025),"Zoox, Inc.",Zoox,2021-09,2021,8,CA,Cruzamento,SUV,Virando à direita,False,5.0,8.0,Sem feridos,False
+19a51639e962c66,30270-9329,Histórico (2021–2025),Waymo LLC,Waymo,2024-12,2024,10,AZ,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+19a716eeeeaa926,30270-13399,Atual (2025–2026),Waymo LLC,Waymo,2025-12,2025,0,TX,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+1a8f11b1e58e6e7,540-3283,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2022-06,2022,10,CA,Rua,Ciclista,Seguindo em frente,False,19.0,30.6,Leve,True
+1b0b9c7c0f0fd3e,30270-9433,Histórico (2021–2025),Waymo LLC,Waymo,2024-11,2024,18,CA,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+1c7233a19c90db9,30270-13560,Atual (2025–2026),Waymo LLC,Waymo,2026-01,2026,16,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+1c765c0d4ebc46b,30270-14895,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,23,TX,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+1cac591a8072dbf,30270-16111,Atual (2025–2026),Waymo LLC,Waymo,2026-07,2026,15,CA,Rua,Objeto fixo,Seguindo em frente,False,5.0,8.0,Sem feridos,False
+1cf4d28bc876306,30270-11544,Atual (2025–2026),Waymo LLC,Waymo,2025-08,2025,0,CA,Cruzamento,Carro de passeio,Seguindo em frente,False,7.0,11.3,Sem feridos,False
+1f3b28dc7a86591,30270-13956,Atual (2025–2026),Waymo LLC,Waymo,2026-02,2026,21,CA,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+1f4180af6b053ce,31101-14813,Atual (2025–2026),Avride Inc.,Avride,2026-04,2026,22,TX,Rua,Carro de passeio,Seguindo em frente,False,29.0,46.7,Sem feridos,False
+2086d3156e7d817,30270-9411,Histórico (2021–2025),Waymo LLC,Waymo,2024-11,2024,18,AZ,Rua,Van,Parado no trânsito,True,0.0,0.0,Leve,True
+20d6da83946bc6a,30270-13955,Atual (2025–2026),Waymo LLC,Waymo,2026-02,2026,7,AZ,Rodovia,Carro de passeio,Mudando de faixa,False,56.0,90.1,Desconhecida,
+22cdfc6478274b8,30270-16258,Atual (2025–2026),Waymo LLC,Waymo,2026-08,2026,17,CA,Rua,SUV,Ultrapassando,False,11.0,17.7,Sem feridos,False
+239e75e81c5fdea,13781-14631,Atual (2025–2026),"Tesla, Inc.",Tesla,2026-03,2026,12,TX,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+24241fa3b4af301,30270-11087,Histórico (2021–2025),Waymo LLC,Waymo,2025-06,2025,12,AZ,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+242678102337149,988-9972,Histórico (2021–2025),PACCAR Incorporated,Outras,2025-01,2025,8,TX,Rodovia,Outro ou desconhecido,Seguindo em frente,False,62.0,99.8,Sem feridos,False
+25685a1a4167c35,30270-11019,Histórico (2021–2025),Waymo LLC,Waymo,2025-05,2025,17,CA,Rua,Carro de passeio,Estacionado,True,0.0,0.0,Sem feridos,False
+262550d6cc1bc14,30270-9894,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,19,AZ,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+26de6e7410cd8c2,30270-13155,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,21,CA,Rua,Ônibus,Estacionado,True,0.0,0.0,Sem feridos,False
+291b94613158d04,1420-7914,Histórico (2021–2025),"Volkswagen Group of America, Inc.",Outras,2024-05,2024,14,TX,Estacionamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+293f1c3457530d0,30270-7943,Histórico (2021–2025),Waymo LLC,Waymo,2024-05,2024,10,AZ,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+2a20b0200d6dd5d,30270-11863,Atual (2025–2026),Waymo LLC,Waymo,2025-10,2025,7,AZ,Rua,Picape,Estacionado,True,0.0,0.0,Sem feridos,False
+2b65fb57cedb2be,30270-11284,Atual (2025–2026),Waymo LLC,Waymo,2025-07,2025,8,CA,Cruzamento,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+2b85919ed5b74d5,30270-14979,Atual (2025–2026),Waymo LLC,Waymo,2026-05,2026,15,TX,Cruzamento,Carro de passeio,Seguindo em frente,False,6.0,9.7,Sem feridos,False
+2bb222591cc8318,30270-16050,Atual (2025–2026),Waymo LLC,Waymo,2026-07,2026,16,CA,Rua,SUV,Mudando de faixa,False,25.0,40.2,Sem feridos,False
+2c3148db1b0381d,30270-11860,Atual (2025–2026),Waymo LLC,Waymo,2025-10,2025,16,CA,Rua,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+2c64f8b5a7ca81d,30270-8629,Histórico (2021–2025),Waymo LLC,Waymo,2024-08,2024,11,CA,Rua,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+2c723ba2d4b98e0,30270-6579,Histórico (2021–2025),Waymo LLC,Waymo,2023-11,2023,22,CA,Cruzamento,Carro de passeio,Seguindo em frente,False,18.0,29.0,Grave,True
+2caa209d0035cbf,30270-9419,Histórico (2021–2025),Waymo LLC,Waymo,2024-11,2024,13,CA,Rua,Veículo de emergência,Seguindo em frente,False,22.0,35.4,Sem feridos,False
+2cbb435ba089c85,30610-11563,Atual (2025–2026),"Zoox, Inc.",Zoox,2025-08,2025,15,CA,Rua,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+2ce5611540d2e6c,31101-13621,Atual (2025–2026),Avride Inc.,Avride,2025-12,2025,11,TX,Rua,Objeto fixo,Seguindo em frente,False,17.0,27.4,Sem feridos,False
+2d117cb5cb544ec,30270-13980,Atual (2025–2026),Waymo LLC,Waymo,2026-02,2026,10,CA,Rua,Carro de passeio,Seguindo em frente,False,0.0,0.0,Sem feridos,False
+2e0f431011fd2cd,30270-9582,Histórico (2021–2025),Waymo LLC,Waymo,2024-12,2024,13,CA,Rua,Caminhão,Estacionado,True,0.0,0.0,Sem feridos,False
+2e5f85bf9158ce0,30270-9557,Histórico (2021–2025),Waymo LLC,Waymo,2024-12,2024,22,CA,Rua,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+2e9b6b2e5c02442,30270-14075,Atual (2025–2026),Waymo LLC,Waymo,2026-02,2026,2,CA,Cruzamento,Carro de passeio,Estacionado,True,0.0,0.0,Leve,True
+2fae476084aa8d2,30270-7969,Histórico (2021–2025),Waymo LLC,Waymo,2024-06,2024,18,AZ,Cruzamento,Outro ou desconhecido,Seguindo em frente,False,25.0,40.2,Sem feridos,False
+2fc73932cae4c23,30270-13340,Atual (2025–2026),Waymo LLC,Waymo,2025-12,2025,19,CA,Rua,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+2fd75d44c245ee1,30270-10923,Histórico (2021–2025),Waymo LLC,Waymo,2025-05,2025,16,AZ,Cruzamento,Picape,Dando ré,False,3.0,4.8,Sem feridos,False
+30095ee7921bf41,30610-7465,Histórico (2021–2025),"Zoox, Inc.",Zoox,2024-03,2024,9,NV,Rua,Picape,Seguindo em frente,False,3.0,4.8,Leve,True
+30a9b677a07aa9d,30270-9567,Histórico (2021–2025),Waymo LLC,Waymo,2024-12,2024,0,AZ,Rua,Carro de passeio,Estacionado,True,0.0,0.0,Sem feridos,False
+312e08a5035ca97,30270-9203,Histórico (2021–2025),Waymo LLC,Waymo,2024-11,2024,12,AZ,Rua,SUV,Estacionado,True,0.0,0.0,Sem feridos,False
+3178b1958caad7f,31101-14925,Atual (2025–2026),Avride Inc.,Avride,2026-04,2026,12,TX,Rua,Picape,Seguindo em frente,False,23.0,37.0,Sem feridos,False
+319eb0dc9f09a4d,30270-14809,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,14,CA,Rua,Ônibus,Estacionado,True,0.0,0.0,Sem feridos,False
+31a94fb68dac7e0,30270-8385,Histórico (2021–2025),Waymo LLC,Waymo,2024-07,2024,18,CA,Cruzamento,Carro de passeio,Seguindo em frente,False,0.0,0.0,Sem feridos,False
+3250f12d8808f2a,30270-10615,Histórico (2021–2025),Waymo LLC,Waymo,2025-04,2025,1,CA,Estacionamento,Carro de passeio,Estacionado,True,0.0,0.0,Sem feridos,False
+32cbce6fd63f148,30490-13120,Atual (2025–2026),"Beep, Inc.",Outras,2025-11,2025,15,FL,Rua,Carro de passeio,Seguindo em frente,False,20.0,32.2,Sem feridos,False
+3338e23081c8551,30270-15898,Atual (2025–2026),Waymo LLC,Waymo,2026-07,2026,22,TX,Rua,SUV,Seguindo em frente,False,16.0,25.7,Sem feridos,False
+33e8d4e5afdbbd8,30610-3158,Histórico (2021–2025),"Zoox, Inc.",Zoox,2022-05,2022,13,CA,Rua,Carro de passeio,Parado no trânsito,True,25.0,40.2,Sem feridos,False
+3478d8925ecd2fe,30270-8405,Histórico (2021–2025),Waymo LLC,Waymo,2024-07,2024,11,AZ,Estacionamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+367269c0661b161,30270-14556,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,14,CA,Rua,SUV,Mudando de faixa,False,11.0,17.7,Sem feridos,False
+36eaf89cd2651b4,540-6306,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2023-08,2023,22,CA,Rua,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+374f676fee2c3db,30270-5611,Histórico (2021–2025),Waymo LLC,Waymo,2023-05,2023,17,AZ,Estacionamento,Outro ou desconhecido,Seguindo em frente,False,10.0,16.1,Sem feridos,False
+379fa369488a397,30413-3943,Histórico (2021–2025),May Mobility,Outras,2022-09,2022,9,AZ,Estacionamento,Carro de passeio,Dando ré,False,0.0,0.0,Sem feridos,False
+37eec80f6812b0a,30270-13765,Atual (2025–2026),Waymo LLC,Waymo,2026-01,2026,2,CA,Rua,Carro de passeio,Seguindo em frente,False,3.0,4.8,Sem feridos,False
+396c5cc69de6d20,30270-13135,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,19,AZ,Estacionamento,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+39e914432c9731f,30270-13064,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,19,CA,Cruzamento,Carro de passeio,Seguindo em frente,False,16.0,25.7,Sem feridos,False
+3aa44bb00362edf,30270-9259,Histórico (2021–2025),Waymo LLC,Waymo,2024-11,2024,17,CA,Cruzamento,Carro de passeio,Seguindo em frente,False,21.0,33.8,Leve,True
+3b559d83bff3844,540-4524,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2022-12,2022,23,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+3db73b95cac1387,30270-13998,Atual (2025–2026),Waymo LLC,Waymo,2026-02,2026,14,CA,Rua,Picape,Seguindo em frente,False,7.0,11.3,Sem feridos,False
+3e4c7e40d09d74d,30270-13364,Atual (2025–2026),Waymo LLC,Waymo,2025-12,2025,10,TX,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+3f5abecf5cbccbb,30270-14004,Atual (2025–2026),Waymo LLC,Waymo,2026-02,2026,10,TX,Rua,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+3f95cea5fcf8776,30270-15175,Atual (2025–2026),Waymo LLC,Waymo,2026-05,2026,2,CA,Rua,SUV,Estacionado,True,0.0,0.0,Sem feridos,False
+3fa95d09e7002f4,30270-9895,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,11,CA,Rua,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+4104ed1258e00d3,30270-11250,Atual (2025–2026),Waymo LLC,Waymo,2025-06,2025,22,CA,Rua,Van,Estacionado,True,0.0,0.0,Sem feridos,False
+42a6ee3cc17dddb,30610-6592,Histórico (2021–2025),"Zoox, Inc.",Zoox,2023-11,2023,22,WA,Rua,Outro ou desconhecido,Parado no trânsito,True,0.0,0.0,Leve,True
+433fe63e6e3e1ed,30270-13643,Atual (2025–2026),Waymo LLC,Waymo,2026-01,2026,21,CA,Rua,Picape,Dando ré,False,2.0,3.2,Sem feridos,False
+43b2318763bedde,30270-13540,Atual (2025–2026),Waymo LLC,Waymo,2025-12,2025,13,CA,Estacionamento,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+444d16299c00b0b,30270-5083,Histórico (2021–2025),Waymo LLC,Waymo,2023-02,2023,0,CA,Cruzamento,Carro de passeio,Virando à esquerda,False,14.0,22.5,Sem feridos,False
+4496e31201f3e12,30270-9850,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,13,CA,Rua,Van,Estacionado,True,0.0,0.0,Sem feridos,False
+44ad2cb21ceeeb6,30270-9602,Histórico (2021–2025),Waymo LLC,Waymo,2024-12,2024,18,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+458edfd849fa8d3,30270-10330,Histórico (2021–2025),Waymo LLC,Waymo,2025-03,2025,8,AZ,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+46ade24152b145f,30270-10916,Histórico (2021–2025),Waymo LLC,Waymo,2025-05,2025,19,AZ,Cruzamento,Carro de passeio,Seguindo em frente,False,18.0,29.0,Sem feridos,False
+46e037718707dda,30531-3883,Histórico (2021–2025),Transdev Alternative Services,Transdev,2022-08,2022,0,AZ,Rua,Carro de passeio,Seguindo em frente,False,10.0,16.1,Sem feridos,False
+472bd4e88959a10,30270-11802,Atual (2025–2026),Waymo LLC,Waymo,2025-09,2025,15,AZ,Cruzamento,Outro ou desconhecido,Seguindo em frente,False,13.0,20.9,Sem feridos,False
+48ce017448022c9,30270-9584,Histórico (2021–2025),Waymo LLC,Waymo,2024-12,2024,8,CA,Rua,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+48d5d8136805068,30270-15996,Atual (2025–2026),Waymo LLC,Waymo,2026-07,2026,20,GA,Rua,SUV,Parado no trânsito,True,0.0,0.0,Moderada,True
+4974e1412309a92,31101-15554,Atual (2025–2026),Avride Inc.,Avride,2026-06,2026,14,TX,Cruzamento,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+49af5b61c59f419,30270-14329,Atual (2025–2026),Waymo LLC,Waymo,2026-03,2026,19,CA,Rua,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+4b9386726e6715e,30270-11208,Atual (2025–2026),Waymo LLC,Waymo,2025-06,2025,21,TX,Cruzamento,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+4be7669b5d81c61,31101-14509,Atual (2025–2026),Avride Inc.,Avride,2026-03,2026,12,TX,Rua,SUV,Seguindo em frente,False,19.0,30.6,Sem feridos,False
+4d12ce78f9cceeb,30270-9763,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,22,CA,Estacionamento,Outro ou desconhecido,Virando à esquerda,False,9.0,14.5,Sem feridos,False
+4e22e1ef93a7511,31101-13620,Atual (2025–2026),Avride Inc.,Avride,2025-12,2025,19,TX,Rua,Picape,Seguindo em frente,False,24.0,38.6,Sem feridos,False
+4e7a4a189feb7da,30270-13373,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,12,CA,Rua,Carro de passeio,Seguindo em frente,False,22.0,35.4,Sem feridos,False
+4e9b36dcecf6185,30270-11224,Atual (2025–2026),Waymo LLC,Waymo,2025-06,2025,17,AZ,Rua,SUV,Seguindo em frente,False,6.0,9.7,Sem feridos,False
+4ed3828343b5b98,30270-15594,Atual (2025–2026),Waymo LLC,Waymo,2026-06,2026,22,CA,Rua,Patinete ou skate,Parado no trânsito,True,0.0,0.0,Moderada,True
+4efc9981e611aef,30270-13877,Atual (2025–2026),Waymo LLC,Waymo,2026-01,2026,19,AZ,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+4f5c629dd98f12c,30270-9635,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,8,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+50b8e1c5db49055,30413-9949,Histórico (2021–2025),May Mobility,Outras,2025-01,2025,12,MI,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+523840e3e4c859f,30270-13658,Atual (2025–2026),Waymo LLC,Waymo,2026-01,2026,19,AZ,Cruzamento,Van,Virando à esquerda,False,17.0,27.4,Sem feridos,False
+53742358e772844,30270-15014,Atual (2025–2026),Waymo LLC,Waymo,2026-05,2026,22,CA,Rua,Carro de passeio,Seguindo em frente,False,2.0,3.2,Sem feridos,False
+558b2f6cb423a8b,540-6178,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2023-08,2023,1,CA,Cruzamento,Pedestre,Seguindo em frente,False,1.0,1.6,Moderada,True
+5628c7d47cd45e9,30531-4494,Histórico (2021–2025),Transdev Alternative Services,Transdev,2022-11,2022,9,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+571711cd8769c72,30270-16093,Atual (2025–2026),Waymo LLC,Waymo,2026-08,2026,20,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Leve,True
+587f0e68b273edd,30270-10594,Histórico (2021–2025),Waymo LLC,Waymo,2025-04,2025,0,AZ,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+58c062c6cb6bb5a,30270-9539,Histórico (2021–2025),Waymo LLC,Waymo,2024-12,2024,15,CA,Rua,Outro ou desconhecido,Seguindo em frente,False,17.0,27.4,Sem feridos,False
+59437c9969373cf,30270-14344,Atual (2025–2026),Waymo LLC,Waymo,2026-03,2026,5,AZ,Rua,Objeto fixo,Saindo da faixa ou da via,False,18.0,29.0,Sem feridos,False
+59f13545e1948d1,30270-10868,Histórico (2021–2025),Waymo LLC,Waymo,2025-05,2025,21,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+59f1938f3e901e0,30270-13484,Atual (2025–2026),Waymo LLC,Waymo,2025-12,2025,17,CA,Cruzamento,SUV,Seguindo em frente,False,22.0,35.4,Sem feridos,False
+5a3e624e03f04e5,540-6452,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2023-09,2023,23,TX,Rua,Carro de passeio,Seguindo em frente,False,6.0,9.7,Sem feridos,False
+5ace8e70579d484,30291-11458,Atual (2025–2026),Nuro,Outras,2025-07,2025,18,CA,Cruzamento,Carro de passeio,Virando à esquerda,False,3.0,4.8,Sem feridos,False
+5b07ab8e3987e65,30270-15505,Atual (2025–2026),Waymo LLC,Waymo,2026-06,2026,9,AZ,Estacionamento,Objeto fixo,Seguindo em frente,False,2.0,3.2,Sem feridos,False
+5b397bdb94b6ab2,30291-7039,Histórico (2021–2025),Nuro,Outras,2024-01,2024,10,TX,Rua,Carro de passeio,Seguindo em frente,False,18.0,29.0,Sem feridos,False
+5c8348bcf998c8b,30270-8266,Histórico (2021–2025),Waymo LLC,Waymo,2024-07,2024,4,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+5d69e01333fae90,855-5058,Histórico (2021–2025),"Mercedes-Benz USA, LLC",Outras,2023-02,2023,15,CA,Rodovia,SUV,Seguindo em frente,False,,,Sem feridos,False
+5d9d9abf8d58b16,30270-16115,Atual (2025–2026),Waymo LLC,Waymo,2026-07,2026,13,PA,Rua,SUV,Seguindo em frente,False,5.0,8.0,Sem feridos,False
+5dd7038d2ace4ed,30270-11995,Atual (2025–2026),Waymo LLC,Waymo,2025-10,2025,22,CA,Cruzamento,Picape,Virando à direita,False,4.0,6.4,Sem feridos,False
+5e333c2d18f1d87,30270-14625,Atual (2025–2026),Waymo LLC,Waymo,2026-03,2026,19,DC,Rua,SUV,Seguindo em frente,False,4.0,6.4,Leve,True
+5ef96b4948629c7,30270-16399,Atual (2025–2026),Waymo LLC,Waymo,2026-08,2026,13,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Leve,True
+5fef8206b21413e,30413-13083,Atual (2025–2026),May Mobility,Outras,2025-11,2025,11,MN,Rua,Objeto fixo,Manobrando para estacionar,False,25.0,40.2,Sem feridos,False
+6148b6bacbe478c,30270-13654,Atual (2025–2026),Waymo LLC,Waymo,2026-01,2026,9,CA,Rua,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+617413a35322fb6,30270-13507,Atual (2025–2026),Waymo LLC,Waymo,2025-12,2025,5,CA,Rua,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+62a7c3abeceb5f3,30270-13331,Atual (2025–2026),Waymo LLC,Waymo,2025-12,2025,0,CA,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+63022700e5986e3,30270-9907,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,19,CA,Rua,Outro ou desconhecido,Seguindo em frente,False,13.0,20.9,Sem feridos,False
+63062a109838ba2,13781-15017,Atual (2025–2026),"Tesla, Inc.",Tesla,2026-04,2026,13,TX,Rua,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+6426eefe9a84263,30610-15822,Atual (2025–2026),"Zoox, Inc.",Zoox,2026-06,2026,0,NV,Rua,Outro não motorizado,Seguindo em frente,False,4.0,6.4,Sem feridos,False
+6518984c44dae43,540-6057,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2023-08,2023,11,CA,Cruzamento,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+66675446d80c8c9,30270-15989,Atual (2025–2026),Waymo LLC,Waymo,2026-07,2026,0,AZ,Rua,Carro de passeio,Seguindo em frente,False,40.0,64.4,Sem feridos,False
+6760a5723220425,30270-2552,Histórico (2021–2025),Waymo LLC,Waymo,2022-02,2022,15,CA,Rua,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+6a20d07f9bbfd90,30270-15352,Atual (2025–2026),Waymo LLC,Waymo,2026-06,2026,4,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+6a475a025f227de,30270-14390,Atual (2025–2026),Waymo LLC,Waymo,2026-03,2026,22,CA,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+6a97654b83af506,30270-14011,Atual (2025–2026),Waymo LLC,Waymo,2026-02,2026,21,CA,Cruzamento,SUV,Seguindo em frente,False,17.0,27.4,Sem feridos,False
+6ae0fa474e6fd3a,30270-14484,Atual (2025–2026),Waymo LLC,Waymo,2026-03,2026,17,GA,Rua,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+6b6d4cd8eee344d,30270-8624,Histórico (2021–2025),Waymo LLC,Waymo,2024-08,2024,11,CA,Estacionamento,Objeto fixo,Virando à esquerda,False,2.0,3.2,Sem feridos,False
+6c0b324ca409978,30270-13206,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,8,CA,Rua,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+6ca231027bcb3eb,30270-9854,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,18,CA,Rua,Carro de passeio,Estacionado,True,0.0,0.0,Sem feridos,False
+6d4c2eeadb7f064,30270-16291,Atual (2025–2026),Waymo LLC,Waymo,2026-08,2026,13,CA,Cruzamento,Carro de passeio,Virando à esquerda,False,2.0,3.2,Sem feridos,False
+6dd5489a060aecd,30270-15674,Atual (2025–2026),Waymo LLC,Waymo,2026-06,2026,0,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Leve,True
+6eefb6c4b33df9d,30531-7546,Histórico (2021–2025),Transdev Alternative Services,Transdev,2024-03,2024,15,CA,Rua,Picape,Seguindo em frente,False,13.0,20.9,Sem feridos,False
+6fcf838ccdcebce,540-6369,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2023-09,2023,3,TX,Cruzamento,SUV,Seguindo em frente,False,3.0,4.8,Sem feridos,False
+6fdb3294838ba48,30270-5593,Histórico (2021–2025),Waymo LLC,Waymo,2023-04,2023,13,CA,Cruzamento,SUV,Estacionado,True,0.0,0.0,Sem feridos,False
+6fef0bd4d38ff9c,30270-11543,Atual (2025–2026),Waymo LLC,Waymo,2025-08,2025,18,CA,Rua,SUV,Estacionado,True,0.0,0.0,Sem feridos,False
+705af0c07826a64,30270-8620,Histórico (2021–2025),Waymo LLC,Waymo,2024-08,2024,13,AZ,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+70693d87dae34e4,30610-8290,Histórico (2021–2025),"Zoox, Inc.",Zoox,2024-08,2024,17,NV,Rua,Motocicleta,Seguindo em frente,False,4.0,6.4,Desconhecida,
+70f3b0a3f9f0759,30270-13638,Atual (2025–2026),Waymo LLC,Waymo,2026-01,2026,10,TX,Rua,SUV,Virando à esquerda,False,14.0,22.5,Sem feridos,False
+72018a3ed847e4a,30270-10837,Histórico (2021–2025),Waymo LLC,Waymo,2025-05,2025,6,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+7387be18790a2af,30270-10327,Histórico (2021–2025),Waymo LLC,Waymo,2025-03,2025,14,CA,Rua,SUV,Estacionado,True,0.0,0.0,Sem feridos,False
+7420c3cf426bdfb,30270-11472,Atual (2025–2026),Waymo LLC,Waymo,2025-07,2025,16,FL,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+7420ebc8c51d9ec,13781-16256,Atual (2025–2026),"Tesla, Inc.",Tesla,2026-07,2026,23,TX,Estacionamento,Objeto fixo,Seguindo em frente,False,1.0,1.6,Sem feridos,False
+7454cf9f599bad4,30270-13096,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,11,CA,Rua,Outro ou desconhecido,Seguindo em frente,False,30.0,48.3,Sem feridos,False
+765d2c91289bd7f,30531-1743,Histórico (2021–2025),Transdev Alternative Services,Transdev,2021-10,2021,12,CA,Cruzamento,SUV,Seguindo em frente,False,1.0,1.6,Sem feridos,False
+76e2cf9103d86dc,30270-11949,Atual (2025–2026),Waymo LLC,Waymo,2025-10,2025,7,CA,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+78395c1007ca02d,30270-13091,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,11,CA,Rua,Outro ou desconhecido,Seguindo em frente,False,0.0,0.0,Sem feridos,False
+79e867ebe3bea1c,30270-11590,Atual (2025–2026),Waymo LLC,Waymo,2025-08,2025,12,CA,Rua,SUV,Estacionado,True,0.0,0.0,Sem feridos,False
+79f75b387eb2c41,30270-8394,Histórico (2021–2025),Waymo LLC,Waymo,2024-07,2024,12,CA,Rua,Caminhão,Mudando de faixa,False,1.0,1.6,Sem feridos,False
+7b6cae38fea58d6,30270-15893,Atual (2025–2026),Waymo LLC,Waymo,2026-07,2026,16,CA,Estacionamento,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+7bb5e5a6b3d3dec,30270-14140,Atual (2025–2026),Waymo LLC,Waymo,2026-02,2026,22,CA,Rua,SUV,Estacionado,True,0.0,0.0,Sem feridos,False
+7c362b5823f86a4,30270-9606,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,9,CA,Rua,Caminhão,Outro ou desconhecido,False,1.0,1.6,Sem feridos,False
+7d9661d6d9464e2,30270-11853,Atual (2025–2026),Waymo LLC,Waymo,2025-09,2025,13,CA,Rua,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+7dd2f1111b60db0,30270-15583,Atual (2025–2026),Waymo LLC,Waymo,2026-06,2026,18,CA,Rua,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+7ef0a8cc1427085,30270-13056,Atual (2025–2026),Waymo LLC,Waymo,2025-10,2025,20,CA,Rua,Outro ou desconhecido,Parado no trânsito,True,0.0,0.0,Desconhecida,
+7f8898a91bd9394,30270-13571,Atual (2025–2026),Waymo LLC,Waymo,2026-01,2026,18,CA,Rua,Van,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+7fd090dc5def1cb,30270-10143,Histórico (2021–2025),Waymo LLC,Waymo,2025-02,2025,12,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+80fa8ac15954395,502-3416,Histórico (2021–2025),Ford Motor Company,Outras,2022-06,2022,13,PA,Cruzamento,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+83944815ca12307,30270-13278,Atual (2025–2026),Waymo LLC,Waymo,2025-12,2025,9,AZ,Rua,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+83f223e7f8775af,30270-9183,Histórico (2021–2025),Waymo LLC,Waymo,2024-10,2024,20,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+8563d4571c2a4f2,988-9101,Histórico (2021–2025),PACCAR Incorporated,Outras,2024-10,2024,12,TX,Rodovia,Objeto fixo,Seguindo em frente,False,52.0,83.7,Sem feridos,False
+857232881f1c3c0,30531-1200,Histórico (2021–2025),Transdev Alternative Services,Transdev,2021-09,2021,13,AZ,Rua,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+85b2ac7e4bcaa36,30270-8526,Histórico (2021–2025),Waymo LLC,Waymo,2024-09,2024,11,CA,Rua,Outro ou desconhecido,Seguindo em frente,False,9.0,14.5,Sem feridos,False
+878454aa879cc48,30270-11404,Atual (2025–2026),Waymo LLC,Waymo,2025-07,2025,12,CA,Rua,Carro de passeio,Estacionado,True,0.0,0.0,Sem feridos,False
+888a7d234f6b3f9,30270-16286,Atual (2025–2026),Waymo LLC,Waymo,2026-08,2026,23,AZ,Estacionamento,Objeto fixo,Dando ré,False,3.0,4.8,Sem feridos,False
+8894cbcbca3e974,30270-7726,Histórico (2021–2025),Waymo LLC,Waymo,2024-04,2024,19,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+89012b214b0da06,30270-14494,Atual (2025–2026),Waymo LLC,Waymo,2026-03,2026,19,CA,Rua,Carro de passeio,Seguindo em frente,False,1.0,1.6,Sem feridos,False
+894062e6b5b6b77,30270-10672,Histórico (2021–2025),Waymo LLC,Waymo,2025-04,2025,5,CA,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+8a1786924262b79,30270-10642,Histórico (2021–2025),Waymo LLC,Waymo,2025-05,2025,15,TX,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+8b578b5c3be9177,30270-15508,Atual (2025–2026),Waymo LLC,Waymo,2026-06,2026,19,CA,Rua,SUV,Entrando no tráfego,False,5.0,8.0,Sem feridos,False
+8c5f002b0d6d360,30270-14929,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,22,TX,Rua,Carro de passeio,Mudando de faixa,False,25.0,40.2,Sem feridos,False
+8d2c164d501a618,30270-14455,Atual (2025–2026),Waymo LLC,Waymo,2026-03,2026,2,CA,Cruzamento,Carro de passeio,Seguindo em frente,False,5.0,8.0,Sem feridos,False
+8da785eec3187c9,30270-15559,Atual (2025–2026),Waymo LLC,Waymo,2026-06,2026,12,CA,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+8dbb58bde502b36,502-2973,Histórico (2021–2025),Ford Motor Company,Outras,2022-05,2022,8,DC,Cruzamento,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+90ec722a319e433,30270-11542,Atual (2025–2026),Waymo LLC,Waymo,2025-08,2025,11,CA,Rua,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+9272efdb850fed3,30270-12061,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,10,CA,Cruzamento,SUV,Seguindo em frente,False,1.0,1.6,Sem feridos,False
+927962389e0220f,30270-15392,Atual (2025–2026),Waymo LLC,Waymo,2026-06,2026,2,TN,Rua,Van,Estacionado,True,0.0,0.0,Sem feridos,False
+9298debc89380bf,30270-9848,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,15,AZ,Rua,Outro ou desconhecido,Seguindo em frente,False,24.0,38.6,Sem feridos,False
+94f95095ba15e48,30270-14352,Atual (2025–2026),Waymo LLC,Waymo,2026-03,2026,13,CA,Rua,Ônibus,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+95bda79c9ba41b5,30270-7842,Histórico (2021–2025),Waymo LLC,Waymo,2024-06,2024,12,AZ,Cruzamento,Motocicleta,Seguindo em frente,False,22.0,35.4,Sem feridos,False
+965e0e83c0b1517,30270-9173,Histórico (2021–2025),Waymo LLC,Waymo,2024-10,2024,0,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+970d86ec5425b21,30270-9176,Histórico (2021–2025),Waymo LLC,Waymo,2024-10,2024,18,CA,Rua,SUV,Virando à esquerda,False,12.0,19.3,Sem feridos,False
+98de3a7d413af67,30270-9269,Histórico (2021–2025),Waymo LLC,Waymo,2024-11,2024,18,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+99108ea3e1b8746,540-4541,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2022-12,2022,8,CA,Rua,Carro de passeio,Seguindo em frente,False,2.0,3.2,Desconhecida,
+99e19d155838197,30270-9868,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,13,TX,Estacionamento,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+9ad4bcde541a63c,30270-11933,Atual (2025–2026),Waymo LLC,Waymo,2025-10,2025,12,AZ,Rua,SUV,Seguindo em frente,False,40.0,64.4,Sem feridos,False
+9c8f0e8f37ada10,30270-9186,Histórico (2021–2025),Waymo LLC,Waymo,2024-10,2024,20,CA,Rua,SUV,Seguindo em frente,False,6.0,9.7,Sem feridos,False
+9d43f7feeb9350e,30531-4720,Histórico (2021–2025),Transdev Alternative Services,Transdev,2022-12,2022,12,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+9d481ed6b4babd7,540-3083,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2022-06,2022,1,CA,Rua,Pedestre,Outro ou desconhecido,False,5.0,8.0,Desconhecida,
+9d871ee2ff7dfbb,30270-11281,Atual (2025–2026),Waymo LLC,Waymo,2025-07,2025,22,CA,Rua,Ônibus,Estacionado,True,0.0,0.0,Sem feridos,False
+9dc28c3b9de8058,30410-16264,Atual (2025–2026),Motional,Outras,2026-08,2026,14,NV,Rua,SUV,Parado no trânsito,True,5.0,8.0,Leve,True
+9dcd28ad7e5d74f,30330-16576,Atual (2025–2026),"TORC Robotics, Inc.",Outras,2026-08,2026,16,TX,Cruzamento,Carro de passeio,Virando à esquerda,False,11.0,17.7,Sem feridos,False
+9e782aa378c2cf8,30270-9596,Histórico (2021–2025),Waymo LLC,Waymo,2024-12,2024,11,AZ,Estacionamento,Carro de passeio,Estacionado,True,0.0,0.0,Sem feridos,False
+9e854367221d966,502-2525,Histórico (2021–2025),Ford Motor Company,Outras,2022-02,2022,8,DC,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+9f89b2726694260,30270-14587,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,11,TX,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+a106bab6fdac541,540-6646,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2023-10,2023,22,CA,Cruzamento,Carro de passeio,Seguindo em frente,False,22.0,35.4,Sem feridos,False
+a1cffff2c58a4a7,30270-5114,Histórico (2021–2025),Waymo LLC,Waymo,2023-03,2023,20,CA,Rua,Outro ou desconhecido,Seguindo em frente,False,,,Sem feridos,False
+a2201a001fcc54d,30270-11905,Atual (2025–2026),Waymo LLC,Waymo,2025-10,2025,18,AZ,Estacionamento,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+a23645e9ae97899,30270-10058,Histórico (2021–2025),Waymo LLC,Waymo,2025-02,2025,22,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+a386703bc6498b9,30531-8345,Histórico (2021–2025),Transdev Alternative Services,Transdev,2024-08,2024,10,AZ,Rua,SUV,Parado no trânsito,True,0.0,0.0,Moderada,True
+a7c35b88282e335,30610-16274,Atual (2025–2026),"Zoox, Inc.",Zoox,2026-07,2026,8,CA,Rua,Objeto fixo,Dando ré,False,3.0,4.8,Sem feridos,False
+a9bac9237d264b6,30610-11856,Atual (2025–2026),"Zoox, Inc.",Zoox,2025-10,2025,12,NV,Rua,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+aa14e3edde73fa3,30610-14090,Atual (2025–2026),"Zoox, Inc.",Zoox,2026-01,2026,9,CA,Rua,SUV,Seguindo em frente,False,16.0,25.7,Leve,True
+aa2bae513094cf7,30270-10869,Histórico (2021–2025),Waymo LLC,Waymo,2025-05,2025,7,AZ,Cruzamento,SUV,Seguindo em frente,False,33.0,53.1,Sem feridos,False
+aaa95f76209de4d,30270-15991,Atual (2025–2026),Waymo LLC,Waymo,2026-07,2026,18,TN,Rua,Ônibus,Estacionado,True,0.0,0.0,Sem feridos,False
+ab92f55b1bd5c9b,30270-8144,Histórico (2021–2025),Waymo LLC,Waymo,2024-06,2024,21,CA,Cruzamento,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+aeddf9a5808923f,30270-10089,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,21,CA,Rua,SUV,Seguindo em frente,False,28.0,45.1,Leve,True
+aeec48f6c0c7d94,30270-9194,Histórico (2021–2025),Waymo LLC,Waymo,2024-11,2024,18,AZ,Rua,Carro de passeio,Seguindo em frente,False,13.0,20.9,Sem feridos,False
+af07bd240dfd82d,30270-9405,Histórico (2021–2025),Waymo LLC,Waymo,2024-11,2024,20,CA,Estacionamento,Veículo de emergência,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+af33da497d070af,30270-9350,Histórico (2021–2025),Waymo LLC,Waymo,2024-11,2024,8,CA,Rua,SUV,Estacionado,True,0.0,0.0,Sem feridos,False
+af6e18815ae9663,30270-9852,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,17,CA,Rua,Carro de passeio,Seguindo em frente,False,3.0,4.8,Leve,True
+b05fd9ea974ddb2,30270-6666,Histórico (2021–2025),Waymo LLC,Waymo,2023-10,2023,17,CA,Rua,Van,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+b0bc9730ab173f2,30610-14388,Atual (2025–2026),"Zoox, Inc.",Zoox,2026-03,2026,14,CA,Rua,Carro de passeio,Mudando de faixa,False,0.0,0.0,Sem feridos,False
+b0fe191adb9a766,30610-10251,Histórico (2021–2025),"Zoox, Inc.",Zoox,2025-02,2025,17,CA,Rua,Carro de passeio,Seguindo em frente,False,26.0,41.8,Sem feridos,False
+b25e800c82afada,30270-7308,Histórico (2021–2025),Waymo LLC,Waymo,2024-02,2024,22,CA,Rua,Objeto fixo,Seguindo em frente,False,8.0,12.9,Sem feridos,False
+b26a8024c824bb2,30610-3215,Histórico (2021–2025),"Zoox, Inc.",Zoox,2022-06,2022,10,CA,Rua,SUV,Manobrando para estacionar,False,6.0,9.7,Sem feridos,False
+b26eba4b4034171,30270-14940,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,15,TX,Rua,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+b2b3e3eca58bddb,30270-13561,Atual (2025–2026),Waymo LLC,Waymo,2026-01,2026,0,CA,Rua,Carro de passeio,Manobrando para estacionar,False,1.0,1.6,Sem feridos,False
+b31d37c64239f4d,30270-14333,Atual (2025–2026),Waymo LLC,Waymo,2026-03,2026,4,TX,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+b33311e46ea3535,30270-11998,Atual (2025–2026),Waymo LLC,Waymo,2025-10,2025,10,CA,Cruzamento,Carro de passeio,Seguindo em frente,False,1.0,1.6,Sem feridos,False
+b47ce778ade026d,30270-13682,Atual (2025–2026),Waymo LLC,Waymo,2026-01,2026,9,AZ,Estacionamento,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+b5fb8628e71ee33,30270-14003,Atual (2025–2026),Waymo LLC,Waymo,2026-02,2026,23,CA,Rua,Van,Estacionado,True,0.0,0.0,Moderada,True
+b6f8c5a9a4cdd22,988-10802,Histórico (2021–2025),PACCAR Incorporated,Outras,2025-04,2025,15,TX,Rodovia,Outro ou desconhecido,Seguindo em frente,False,65.0,104.6,Sem feridos,False
+b77f65c9bc8eab0,540-6305,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2023-08,2023,23,TX,Rua,SUV,Seguindo em frente,False,10.0,16.1,Sem feridos,False
+b7ad401221e8988,30610-10711,Histórico (2021–2025),"Zoox, Inc.",Zoox,2025-05,2025,19,CA,Rua,Outro ou desconhecido,Virando à direita,False,0.0,0.0,Leve,True
+b83282f32aa9b0c,30270-15590,Atual (2025–2026),Waymo LLC,Waymo,2026-06,2026,0,CA,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+b9a25629aeaea8a,30270-10338,Histórico (2021–2025),Waymo LLC,Waymo,2025-03,2025,19,CA,Rua,Ônibus,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+bae33a18d41e9c1,30270-13657,Atual (2025–2026),Waymo LLC,Waymo,2026-01,2026,5,CA,Rua,Carro de passeio,Estacionado,True,0.0,0.0,Sem feridos,False
+bb1ec8d2c85745a,30270-13167,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,16,CA,Rua,Carro de passeio,Seguindo em frente,False,2.0,3.2,Desconhecida,
+bd466c870547afe,30270-9334,Histórico (2021–2025),Waymo LLC,Waymo,2024-12,2024,14,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+bdc3fa454ba067e,30270-10322,Histórico (2021–2025),Waymo LLC,Waymo,2025-03,2025,19,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+be725dd4cd06bde,30270-14048,Atual (2025–2026),Waymo LLC,Waymo,2026-02,2026,0,TX,Rua,SUV,Parado no trânsito,True,0.0,0.0,Leve,True
+be9a4261e1e8663,30270-9654,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,15,CA,Cruzamento,Ciclista,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+c0116c0a104d5d3,30270-10971,Histórico (2021–2025),Waymo LLC,Waymo,2025-05,2025,15,DC,Rua,Ônibus,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+c0adb95d5980d1e,30270-16123,Atual (2025–2026),Waymo LLC,Waymo,2026-08,2026,9,CA,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+c1816d4e297b197,30270-11209,Atual (2025–2026),Waymo LLC,Waymo,2025-06,2025,9,AZ,Estacionamento,Objeto fixo,Seguindo em frente,False,10.0,16.1,Sem feridos,False
+c1f1ddfe9f834d5,30270-16032,Atual (2025–2026),Waymo LLC,Waymo,2026-07,2026,13,CA,Cruzamento,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+c26aa8dbe1df084,30270-9099,Histórico (2021–2025),Waymo LLC,Waymo,2024-10,2024,13,CA,Rua,Carro de passeio,Estacionado,True,0.0,0.0,Sem feridos,False
+c2e8747368f98df,30270-14832,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,1,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+c311790f7d74673,540-6462,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2023-09,2023,23,CA,Cruzamento,Caminhão,Virando à esquerda,False,10.0,16.1,Sem feridos,False
+c49c24770dd5ae0,30413-10762,Histórico (2021–2025),May Mobility,Outras,2025-04,2025,11,MI,Cruzamento,Carro de passeio,Dando ré,False,1.0,1.6,Sem feridos,False
+c526dfdcc262071,30270-10920,Histórico (2021–2025),Waymo LLC,Waymo,2025-05,2025,22,TX,Estacionamento,Carro de passeio,Estacionado,True,0.0,0.0,Sem feridos,False
+c6649ebe493dbad,30270-14733,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,16,AZ,Estacionamento,Outro ou desconhecido,Virando à esquerda,False,8.0,12.9,Sem feridos,False
+c68e8513eb8aa59,30610-10999,Histórico (2021–2025),"Zoox, Inc.",Zoox,2025-06,2025,14,CA,Rua,Outro ou desconhecido,Virando à direita,False,0.0,0.0,Sem feridos,False
+c754f3128a47aab,30270-14623,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,16,CA,Rua,Carro de passeio,Seguindo em frente,False,4.0,6.4,Sem feridos,False
+c81082eafda6733,30270-10759,Histórico (2021–2025),Waymo LLC,Waymo,2025-04,2025,17,CA,Cruzamento,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+c92893635f8a32b,30270-7949,Histórico (2021–2025),Waymo LLC,Waymo,2024-05,2024,21,CA,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+c928ff1b3cc3e00,31101-14069,Atual (2025–2026),Avride Inc.,Avride,2026-01,2026,14,TX,Rua,Carro de passeio,Virando à esquerda,False,16.0,25.7,Sem feridos,False
+ca71be640fd6548,30270-14449,Atual (2025–2026),Waymo LLC,Waymo,2026-03,2026,12,AZ,Rua,SUV,Seguindo em frente,False,40.0,64.4,Sem feridos,False
+cabb08d695498fe,30270-14098,Atual (2025–2026),Waymo LLC,Waymo,2026-02,2026,18,TX,Cruzamento,SUV,Seguindo em frente,False,1.0,1.6,Sem feridos,False
+cb5b672d0cb1d38,30270-15726,Atual (2025–2026),Waymo LLC,Waymo,2026-07,2026,17,AZ,Rua,SUV,Seguindo em frente,False,14.0,22.5,Sem feridos,False
+cfc4982214190f9,30270-15243,Atual (2025–2026),Waymo LLC,Waymo,2026-05,2026,15,TX,Rua,Picape,Seguindo em frente,False,11.0,17.7,Sem feridos,False
+d0a54fc1c39a1f7,30270-15073,Atual (2025–2026),Waymo LLC,Waymo,2026-05,2026,14,GA,Cruzamento,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+d0d2b956a14a299,30410-14562,Atual (2025–2026),Motional,Outras,2026-04,2026,16,NV,Rua,Objeto fixo,Seguindo em frente,False,23.0,37.0,Sem feridos,False
+d1097c7706589a9,30391-4811,Histórico (2021–2025),Kodiak Robotics,Outras,2023-02,2023,10,TX,Rodovia,SUV,Seguindo em frente,False,56.0,90.1,Sem feridos,False
+d112b9f733d7830,30270-13095,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,15,TX,Rua,Outro ou desconhecido,Seguindo em frente,False,30.0,48.3,Sem feridos,False
+d22f3c0f546b64e,30270-12052,Atual (2025–2026),Waymo LLC,Waymo,2025-10,2025,0,AZ,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+d294fc7bca2c459,30610-11513,Atual (2025–2026),"Zoox, Inc.",Zoox,2025-07,2025,15,NV,Cruzamento,Ciclista,Virando à direita,False,0.0,0.0,Sem feridos,False
+d40963f83336275,30270-10446,Histórico (2021–2025),Waymo LLC,Waymo,2025-03,2025,4,CA,Rua,Picape,Estacionado,True,0.0,0.0,Sem feridos,False
+d55ed8e4cc6558b,30270-13327,Atual (2025–2026),Waymo LLC,Waymo,2025-12,2025,8,AZ,Rua,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+d5de86f17304363,30270-7883,Histórico (2021–2025),Waymo LLC,Waymo,2024-06,2024,18,AZ,Estacionamento,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+d62b1a61bfcc776,30270-10898,Histórico (2021–2025),Waymo LLC,Waymo,2025-05,2025,15,CA,Rua,SUV,Seguindo em frente,False,3.0,4.8,Sem feridos,False
+d67503382bbf356,988-8593,Histórico (2021–2025),PACCAR Incorporated,Outras,2024-08,2024,9,TX,Rodovia,Outro ou desconhecido,Saindo da faixa ou da via,False,65.0,104.6,Sem feridos,False
+d67766755374650,30270-13100,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,10,CA,Rua,Van,Parado no trânsito,True,0.0,0.0,Leve,True
+d8b6f7f5b4b77bf,30270-11839,Atual (2025–2026),Waymo LLC,Waymo,2025-09,2025,17,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+d9550aa70b90958,30270-13099,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,3,CA,Cruzamento,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+da95260e755d3de,30270-8602,Histórico (2021–2025),Waymo LLC,Waymo,2024-08,2024,22,AZ,Rua,Objeto fixo,Seguindo em frente,False,10.0,16.1,Sem feridos,False
+db0bf45ccb8b461,30270-16398,Atual (2025–2026),Waymo LLC,Waymo,2026-08,2026,15,CA,Cruzamento,SUV,Seguindo em frente,False,33.0,53.1,Leve,True
+dcd6e5e8a4c7825,30270-14773,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,21,AZ,Cruzamento,Carro de passeio,Virando à esquerda,False,17.0,27.4,Sem feridos,False
+dd7979d22b5c160,30270-10776,Histórico (2021–2025),Waymo LLC,Waymo,2025-05,2025,22,CA,Rua,Caminhão,Seguindo em frente,False,3.0,4.8,Sem feridos,False
+de1e4b6864f40ef,540-3645,Histórico (2021–2025),"General Motors, LLC",Cruise (GM),2022-07,2022,1,CA,Rua,Carro de passeio,Seguindo em frente,False,12.0,19.3,Sem feridos,False
+de2cefe32ddb0ed,30270-2743,Histórico (2021–2025),Waymo LLC,Waymo,2022-04,2022,14,CA,Cruzamento,Picape,Seguindo em frente,False,0.0,0.0,Leve,True
+de9adc7835033c6,30530-11895,Atual (2025–2026),"Aurora Operations, Inc.",Outras,2025-09,2025,12,TX,Rodovia,Outro ou desconhecido,Seguindo em frente,False,35.0,56.3,Sem feridos,False
+debe4f3f3881687,30410-14238,Atual (2025–2026),Motional,Outras,2026-02,2026,23,NV,Rua,Carro de passeio,Seguindo em frente,False,25.0,40.2,Sem feridos,False
+df8b95ac4152a51,30270-13582,Atual (2025–2026),Waymo LLC,Waymo,2026-01,2026,18,CA,Cruzamento,Carro de passeio,Seguindo em frente,False,11.0,17.7,Sem feridos,False
+dffa2f99e3df433,30270-11516,Atual (2025–2026),Waymo LLC,Waymo,2025-08,2025,7,CA,Cruzamento,Caminhão,Seguindo em frente,False,13.0,20.9,Sem feridos,False
+e099fb4bfb559ef,30270-15640,Atual (2025–2026),Waymo LLC,Waymo,2026-06,2026,6,FL,Estacionamento,Outro ou desconhecido,Virando à esquerda,False,9.0,14.5,Sem feridos,False
+e1a078add1d307e,30270-6668,Histórico (2021–2025),Waymo LLC,Waymo,2023-10,2023,11,AZ,Cruzamento,Carro de passeio,Virando à direita,False,3.0,4.8,Sem feridos,False
+e1bccc94686b59d,30270-16028,Atual (2025–2026),Waymo LLC,Waymo,2026-07,2026,5,CA,Rua,Carro de passeio,Seguindo em frente,False,20.0,32.2,Grave,True
+e3ec3402e35a4b5,30270-14617,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,23,FL,Rua,Carro de passeio,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+e3f948feabc1ec0,30270-10666,Histórico (2021–2025),Waymo LLC,Waymo,2025-04,2025,1,CA,Rua,Carro de passeio,Estacionado,True,0.0,0.0,Sem feridos,False
+e41b32d53ecba3c,30270-7318,Histórico (2021–2025),Waymo LLC,Waymo,2024-02,2024,16,AZ,Rua,Carro de passeio,Virando à direita,False,0.0,0.0,Sem feridos,False
+e44896eb7f3d084,30270-6347,Histórico (2021–2025),Waymo LLC,Waymo,2023-08,2023,16,CA,Rotatória,Carro de passeio,Outro ou desconhecido,False,1.0,1.6,Sem feridos,False
+e460dd80fb8f063,31101-16197,Atual (2025–2026),Avride Inc.,Avride,2026-07,2026,12,TX,Rua,Carro de passeio,Seguindo em frente,False,8.0,12.9,Sem feridos,False
+e50c2bf2e2ca222,30270-11469,Atual (2025–2026),Waymo LLC,Waymo,2025-08,2025,9,CA,Cruzamento,Ônibus,Virando à esquerda,False,0.0,0.0,Sem feridos,False
+e5968e6ffdbb083,30270-10679,Histórico (2021–2025),Waymo LLC,Waymo,2025-04,2025,18,CA,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+e60b29907e64039,30270-13085,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,8,AZ,Cruzamento,Carro de passeio,Seguindo em frente,False,33.0,53.1,Sem feridos,False
+e6fef588a62c89e,30610-16699,Atual (2025–2026),"Zoox, Inc.",Zoox,2026-08,2026,17,NV,Rua,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+e718ccce31ac7b2,30270-9879,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,13,AZ,Rua,Carro de passeio,Seguindo em frente,False,21.0,33.8,Sem feridos,False
+e7860f4e249fa50,30270-13067,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,8,CA,Rua,Picape,Seguindo em frente,False,10.0,16.1,Sem feridos,False
+e786c2bcd0c88eb,30270-13769,Atual (2025–2026),Waymo LLC,Waymo,2026-01,2026,11,TX,Rua,Carro de passeio,Seguindo em frente,False,23.0,37.0,Sem feridos,False
+edbea3cd567eced,30270-14537,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,8,AZ,Rua,Caminhão,Virando à direita,False,12.0,19.3,Sem feridos,False
+f23a6e25a67b19d,30610-6950,Histórico (2021–2025),"Zoox, Inc.",Zoox,2024-01,2024,21,CA,Cruzamento,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+f285742e6381c0f,30270-10487,Histórico (2021–2025),Waymo LLC,Waymo,2025-03,2025,17,CA,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+f53c6133138c165,30270-9407,Histórico (2021–2025),Waymo LLC,Waymo,2024-11,2024,17,CA,Rua,Ônibus,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+f54df4d20d34fd6,30270-9039,Histórico (2021–2025),Waymo LLC,Waymo,2024-11,2024,9,CA,Cruzamento,Picape,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+f5572d3137450d7,30270-8403,Histórico (2021–2025),Waymo LLC,Waymo,2024-07,2024,11,TX,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+f569d4f9a3d9b18,30412-1870,Histórico (2021–2025),Cruise LLC,Cruise (GM),2021-11,2021,15,CA,Cruzamento,Carro de passeio,Seguindo em frente,False,0.0,0.0,Sem feridos,False
+f5a328bf18fba9b,30270-9591,Histórico (2021–2025),Waymo LLC,Waymo,2024-12,2024,23,AZ,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+f6891896f3deeb6,30270-12048,Atual (2025–2026),Waymo LLC,Waymo,2025-11,2025,11,TX,Cruzamento,SUV,Seguindo em frente,False,17.0,27.4,Leve,True
+f76f598e5f5f3af,30270-8120,Histórico (2021–2025),Waymo LLC,Waymo,2024-06,2024,4,AZ,Rua,Animal,Seguindo em frente,False,35.0,56.3,Sem feridos,False
+f7a0ddbfdeb6188,30270-9410,Histórico (2021–2025),Waymo LLC,Waymo,2024-11,2024,4,AZ,Rua,Outro ou desconhecido,Seguindo em frente,False,43.0,69.2,Sem feridos,False
+f7a2230e1fd70dc,30270-14933,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,0,AZ,Cruzamento,Outro ou desconhecido,Seguindo em frente,False,36.0,57.9,Sem feridos,False
+f7cf904127f755d,30413-4352,Histórico (2021–2025),May Mobility,Outras,2022-12,2022,18,MI,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+f846a6ef8254ef7,30270-9821,Histórico (2021–2025),Waymo LLC,Waymo,2025-01,2025,10,CA,Rua,SUV,Seguindo em frente,False,0.0,0.0,Sem feridos,False
+f89bed9069d7689,30410-15591,Atual (2025–2026),Motional,Outras,2026-06,2026,14,NV,Rua,Carro de passeio,Mudando de faixa,False,0.0,0.0,Sem feridos,False
+f8b63962464df67,30270-13378,Atual (2025–2026),Waymo LLC,Waymo,2025-12,2025,8,CA,Cruzamento,Ciclista,Parado no trânsito,True,0.0,0.0,Leve,True
+f9aa6814a8a22df,30270-10861,Histórico (2021–2025),Waymo LLC,Waymo,2025-05,2025,9,CA,Rua,Van,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+fb1ea9a15260093,30270-14513,Atual (2025–2026),Waymo LLC,Waymo,2026-04,2026,16,AZ,Rua,Caminhão,Seguindo em frente,False,15.0,24.1,Sem feridos,False
+fe051bc946e7741,30270-5592,Histórico (2021–2025),Waymo LLC,Waymo,2023-04,2023,17,CA,Rua,SUV,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+fe2407fd3ee875d,30270-13300,Atual (2025–2026),Waymo LLC,Waymo,2025-12,2025,6,CA,Rua,Caminhão,Parado no trânsito,True,0.0,0.0,Sem feridos,False
+fe9c3f8e42bc643,30270-6368,Histórico (2021–2025),Waymo LLC,Waymo,2023-09,2023,17,AZ,Rua,Picape,Seguindo em frente,False,12.0,19.3,Sem feridos,False
+fee5201a113cebe,30270-9180,Histórico (2021–2025),Waymo LLC,Waymo,2024-10,2024,9,TX,Cruzamento,SUV,Seguindo em frente,False,14.0,22.5,Sem feridos,False
